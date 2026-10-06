@@ -1,0 +1,21 @@
+.one{
+  font-size:50px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+
+}
+.two{
+  text-align: center;
+  margin-top:40px;
+
+}
+.stars{
+  font-size:50px;
+  margin:10px;
+}
+
+.active{
+  color:yellow;
+}
+
